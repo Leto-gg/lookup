@@ -1,5 +1,5 @@
 # Leto.gg/lookup HTTP API
-This repo is dedicated to the public endpoint of leto.gg. This repo consists of the main website as well as an example set of API code to retrieve the number of requests of an IPFS CID/BAFY
+This repo is dedicated to the public endpoint of leto.gg. This repo consists of the main website as well as an example set of API code to retrieve the number of requests of an IPFS CID/BAFY via the leto engine found [here](https://github.com/noryev/leto-engine)
 
 # Table of Contents
 - [Usage](#usage)
