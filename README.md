@@ -38,7 +38,7 @@ This repo is dedicated to the public endpoint of leto.gg. This repo consists of 
 
 Currently our implementation is through Elasic Observability for log parsing and were using S3 for hosting the public endpoint 
 
-Currently https://leto.gg redirects to >> https://s3.amazonaws.com/leto.gg/index.html
+Currently https://leto.gg redirects to lookup.leto.gg(UI setup to interact with the Leto.gg API-Endpoint)
 
 Elastic Configuration
 
